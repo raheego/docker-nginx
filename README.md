@@ -7,3 +7,6 @@ https://github.com/beyond-sw-camp/be01-101/issues/27
 ### v0.2.0
 - [x] push my index.html docker hub
 - https://hub.docker.com/r/gohrahee/nginx-my-html
+
+### v0.3.0
+- fly deploy
