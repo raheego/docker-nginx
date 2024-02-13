@@ -6,6 +6,10 @@
 app = 'docker-nginx-rani'
 primary_region = 'nrt'
 
+[build]
+  image = "nginx"
+
+
 [http_service]
   internal_port = 80
   force_https = true
